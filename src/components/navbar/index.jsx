@@ -33,8 +33,10 @@ const Navbar = () => {
 
     return (
         <nav className="navbar" ref={navRef}>
-            <img className="logo" src="carrtellogo.jpg" alt="logo" />
-            {/* <a href="#" className="logo">CARRTEL</a> */}
+
+            <a href="https://www.instagram.com/carrtel.vintage/" className="logo" target="_blank" rel="noopener noreferrer">
+                <img src="carrtellogo.jpg" alt="logo" />
+            </a>
 
             <div className={`nav-toggle ${isOpen ? 'open' : ''}`} onClick={toggleMenu}>
                 <span></span>
