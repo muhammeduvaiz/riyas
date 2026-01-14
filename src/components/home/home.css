@@ -137,6 +137,13 @@ section {
     text-align: center;
 }
 
+@media (max-width: 768px) {
+    .contact-container {
+        margin-top: 1px;
+        
+    }
+}
+
 /* .contact-btn {
     display: inline-block;
     padding: 1rem 3rem;
@@ -206,17 +213,29 @@ section {
     .brand-details {
         width: 70%;
 
-        
+
         /* max-width: 400px; */
         /* Limit width on mobile for better aesthetics */
         /* margin: 2px; */
     }
-    
-    .brand{
+
+    .brand {
         min-height: calc(100vh - 200px);
 
     }
-    .offer{
+
+    .offer {
         min-height: calc(100vh - 200px);
+        padding-bottom: 0;
+        /* Reduce bottom padding */
+    }
+
+    .contact-container {
+        min-height: auto;
+        /* Allow contact to be smaller */
+        padding-top: 2rem;
+        /* Reduce top separation */
+        justify-content: flex-start;
+        /* Align closer to top */
     }
 }
