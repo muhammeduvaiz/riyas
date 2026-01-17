@@ -91,7 +91,7 @@ const Home = () => {
                 <h2 className="section-title">Who I Am</h2>
                 <div className="content-block">
                     <p>
-                        Born on 04 October 1998 and raised in Kasaragod, Kerala, I’m passionate about building a vintage brand that makes good style accessible and sustainable.
+                        Born and raised in Kasaragod, Kerala, I’m passionate about building a vintage brand that makes good style accessible and sustainable.
                     </p>
                     <br />
                     <p>
