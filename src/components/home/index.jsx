@@ -99,11 +99,11 @@ const Home = () => {
                     </p>
                     <br />
                     <p>
-                        I manage everything from sourcing and curation to branding and customer experience, constantly working to grow CARRTEL into a trusted name in the vintage community.
+                        Manage everything from sourcing and curation to branding and customer experience, constantly working to grow CARRTEL into a trusted name in the vintage community.
                     </p>
                     <br />
                     <p>
-                        I completed my graduation at St. Aloysius College, Mangalore, and today I’m focused on expanding CARRTEL through online platforms, collaborations, and new ideas.
+                        Completed my graduation at St. Aloysius College, Mangalore, and today I’m focused on expanding CARRTEL through online platforms, collaborations, and new ideas.
                     </p>
                 </div>
             </section>
